@@ -1,3 +1,6 @@
+remote_theme: pages-themes/hacker@v0.2.0
+plugins:
+- jekyll-remote-theme
 ## Here are some projects I have done during my time as a Master of Science in Business Anaytics Student at UT Austin
 
 
