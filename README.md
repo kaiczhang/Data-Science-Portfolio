@@ -13,9 +13,9 @@ In the manufactoing industry, an unexpected machine failure can be costly. Even 
 Techniques used: K-nearest Neighbour, Decision Tree, Random Forest, Logistics Regression, Data Wrangling, Data Visualization
 
 ### [3. Classification/NLP - Spam Message Classification;](https://github.com/kaiczhang/Data-Science-Portfolio/blob/main/SpamProject.ipynb)
-The objective of this project is to explore and compare different methods of detecting spam messages.
+The objective of this project is to explore and compare different natural language processing and classification methods of detecting spam messages.
 
-Techniques used: Latent Dirichlet Allocation (LDA), Logistics Regression, Random Forest, Tf-Idf Vectorizing, Cosine Similarity
+Techniques used: Latent Dirichlet Allocation (LDA) Topic Modeling, Tf-Idf Vectorizing, Word Embedding, Logistics Regression, Random Forest, Cosine Similarity
 
 ### 4. Optimization - Picking Stocks for Index Fund;
 Techniques used: Gurobi, Integer Programming, Linear & Non-linear Optimization
