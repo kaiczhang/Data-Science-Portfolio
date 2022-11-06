@@ -1,6 +1,6 @@
 
 ## Hi, My name is Kai Zhang. 
-![](https://github.com/kaiczhang/pictures/blob/main/Me.jpeg =50x50)
+![](https://github.com/kaiczhang/pictures/blob/main/Me.jpeg=50x50)
 #### I am a Master of Science in Business Anaytics student and a recent Supply Chain Management graduate from UT Austin. I am passionate about using data in a meanigful way to solve business problems. Here are some data science projects I have done during my time at McCombs School of Business:
 
 
