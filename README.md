@@ -3,7 +3,7 @@
 
 
 ### [1. NLP - Beer Reccomendation System;](https://github.com/kaiczhang/Data-Science-Portfolio/blob/main/Beer%20Recommendation%20System.ipynb)
-In this project I created building blocks of a crowdsourced recommender system. It accepts user inputs in the form of desired attributes of a product and come up with 3 recommendations. 
+In this project I created building blocks of a crowdsourced recommender system. It accepts user inputs in the form of desired attributes of a product and come up with 3 recommendations. The system can also recommend similar products based on user's favorite(benchmark) product.
 
 Techniques used: Bag of Words, VADER Sentiment Analysis, SpaCy Word Embedding, Lift Association, Cosine Similarity
 
