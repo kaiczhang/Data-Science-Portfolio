@@ -18,7 +18,7 @@ The objective of this project is to explore and compare different natural langua
 
 Techniques used: Latent Dirichlet Allocation (LDA) Topic Modeling, Tf-Idf Vectorizing, Word Embedding, Logistics Regression, Random Forest, Cosine Similarity
 
-### 4. Optimization - Picking Stocks for Index Fund;
+### [4. Optimization - Picking Stocks for Index Fund;](https://github.com/kaiczhang/Data-Science-Portfolio/blob/main/Index%20Fund%20Selection.ipynb)
 Techniques used: Gurobi, Integer Programming, Linear & Non-linear Optimization
 
 ### 5. NLP - Car Models and Brands; 
