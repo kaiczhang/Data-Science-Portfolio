@@ -2,7 +2,7 @@
 ## Here are some projects I have done during my time as a Master of Science in Business Anaytics Student at UT Austin
 
 
-### 1. NLP - Beer Reccomendation System;
+### [1. NLP - Beer Reccomendation System;](https://github.com/kaiczhang/Data-Science-Portfolio/blob/main/Beer%20Recommendation%20System.ipynb)
 Techniques used: Bag of Words, VADER Sentiment Analysis, SpaCy Word Embedding, Lift Association, Cosine Similarity
 
 ### 2. Classification/NLP - Spam Message Classification;
