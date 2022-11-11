@@ -1,6 +1,16 @@
 
-### Hi, My name is Kai Zhang. I am a Master of Science in Business Anaytics student and a recent Supply Chain Management graduate from UT Austin. I am passionate about using data in a meanigful way to solve business problems. Here are some data science projects I have done during my time at McCombs School of Business:
-
+<div id="image-table">
+    <table>
+	    <tr>
+    	    <td style="padding:15px">
+        	    <img src="https://github.com/kaiczhang/Kai-Data-Science-Portfolio/blob/main/Images/Me.png" width="180"/>
+      	    </td>
+            <td style="padding:15px">
+            	<img src="https://github.com/kaiczhang/Kai-Data-Science-Portfolio/blob/main/Images/Intro.png" width="900"/>
+            </td>
+        </tr>
+    </table>
+</div>
 
 ### [1. NLP - Beer Reccomendation System;](https://github.com/kaiczhang/Data-Science-Portfolio/blob/main/Beer%20Recommendation%20System.ipynb)
 In this project I created building blocks of a crowdsourced recommender system. It accepts user inputs in the form of desired attributes of a product and come up with 3 recommendations. The system can also recommend similar products based on user's choice of favorite/benchmark product.
