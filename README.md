@@ -1,5 +1,5 @@
 
- <img src="https://github.com/kaiczhang/Kai-Data-Science-Portfolio/blob/main/Images/Stock1.png" width="400"/>
+ <img src="/Images/Stock1.png" width="400"/>
 
 <div id="image-table">
     <table>
