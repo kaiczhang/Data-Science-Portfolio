@@ -5,7 +5,7 @@
     <table>
 	    <tr>
     	    <td style="padding:15px">
-        	    <img src="https://github.com/kaiczhang/Kai-Data-Science-Portfolio/blob/main/Images/Me.png" width="180"/>
+        	    <img src="./Images/Me.png" width="180"/>
       	    </td>
             <td style="padding:15px">
             	<img src="https://github.com/kaiczhang/Kai-Data-Science-Portfolio/blob/main/Images/Intro.png" width="900"/>
