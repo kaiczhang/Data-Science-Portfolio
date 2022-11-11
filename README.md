@@ -32,7 +32,7 @@ Techniques used: K-nearest Neighbour, Decision Tree, Random Forest, Logistics Re
         	    <img src="https://github.com/kaiczhang/Kai-Data-Science-Portfolio/blob/main/Images/Machine1.png" width="300"/>
       	    </td>
             <td style="padding:15px">
-            	<img src="https://github.com/kaiczhang/Kai-Data-Science-Portfolio/blob/main/images/Machine2.png" width="600"/>
+            	<img src="https://github.com/kaiczhang/Kai-Data-Science-Portfolio/blob/main/Images/Machine2.png" width="600"/>
             </td>
         </tr>
     </table>
