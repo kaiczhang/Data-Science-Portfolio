@@ -18,7 +18,7 @@ In this project I created building blocks of a crowdsourced recommender system. 
 
 Techniques used: Web Scrapping, Bag of Words, VADER Sentiment Analysis, SpaCy Word Embedding, Lift Association, Cosine Similarity
 
-<img src="./Beer1.png" />
+<img src="./Images/Beer1.png" />
 
 
 ### [2. Classification - Predictive Maintenance on Manufacturing Equipment;](https://github.com/kaiczhang/kai-data-science-portfolio/blob/main/Predictive%20Maintenance%20on%20Manufacturing%20Equipment.ipynb)
@@ -30,10 +30,10 @@ Techniques used: K-nearest Neighbour, Decision Tree, Random Forest, Logistics Re
     <table>
 	    <tr>
     	    <td style="padding:15px">
-        	    <img src="./Machine1.png" width="300"/>
+        	    <img src="./Images/Machine1.png" width="300"/>
       	    </td>
             <td style="padding:15px">
-            	<img src="./Machine2.png" width="600"/>
+            	<img src="./Images/Machine2.png" width="600"/>
             </td>
         </tr>
     </table>
