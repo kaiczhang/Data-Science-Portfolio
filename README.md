@@ -3,10 +3,10 @@
     <table>
 	    <tr>
     	    <td style="padding:15px">
-        	    <img src="https://github.com/kaiczhang/kai-data-science-portfolio/blob/main/images/me.png" width="180"/>
+        	    <img src="https://github.com/kaiczhang/Kai-Data-Science-Portfolio/blob/main/Images/Me.png" width="180"/>
       	    </td>
             <td style="padding:15px">
-            	<img src="https://github.com/kaiczhang/kai-data-science-portfolio/blob/main/images/intro.png" width="900"/>
+            	<img src="https://github.com/kaiczhang/Kai-Data-Science-Portfolio/blob/main/Images/Intro.png" width="900"/>
             </td>
         </tr>
     </table>
@@ -17,7 +17,7 @@ In this project I created building blocks of a crowdsourced recommender system. 
 
 Techniques used: Web Scrapping, Bag of Words, VADER Sentiment Analysis, SpaCy Word Embedding, Lift Association, Cosine Similarity
 
-![](https://github.com/kaiczhang/kai-data-science-portfolio/blob/main/images/beer1.png)
+![](https://github.com/kaiczhang/Kai-Data-Science-Portfolio/blob/main/Images/Beer1.png)
 
 
 ### [2. Classification - Predictive Maintenance on Manufacturing Equipment;](https://github.com/kaiczhang/kai-data-science-portfolio/blob/main/Predictive%20Maintenance%20on%20Manufacturing%20Equipment.ipynb)
@@ -29,10 +29,10 @@ Techniques used: K-nearest Neighbour, Decision Tree, Random Forest, Logistics Re
     <table>
 	    <tr>
     	    <td style="padding:15px">
-        	    <img src="https://github.com/kaiczhang/kai-data-science-portfolio/blob/main/images/machine1.png" width="300"/>
+        	    <img src="https://github.com/kaiczhang/Kai-Data-Science-Portfolio/blob/main/Images/Machine1.png" width="300"/>
       	    </td>
             <td style="padding:15px">
-            	<img src="https://github.com/kaiczhang/kai-data-science-portfolio/blob/main/images/machine2.png" width="600"/>
+            	<img src="https://github.com/kaiczhang/Kai-Data-Science-Portfolio/blob/main/images/Machine2.png" width="600"/>
             </td>
         </tr>
     </table>
