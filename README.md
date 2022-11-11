@@ -14,8 +14,7 @@ In the manufactoing industry, an unexpected machine failure can be costly. Even 
 
 Techniques used: K-nearest Neighbour, Decision Tree, Random Forest, Logistics Regression, Data Wrangling, Data Visualization
 
-![](https://github.com/kaiczhang/Kai-Data-Science-Portfolio/blob/main/Images/Machine1.png)
-![](https://github.com/kaiczhang/Kai-Data-Science-Portfolio/blob/main/Images/Machine1.png)
+![](https://github.com/kaiczhang/Kai-Data-Science-Portfolio/blob/main/Images/Machine1.png) ![](https://github.com/kaiczhang/Kai-Data-Science-Portfolio/blob/main/Images/Machine1.png)
 
 
 
