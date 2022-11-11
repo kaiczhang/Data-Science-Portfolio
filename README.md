@@ -1,5 +1,4 @@
 
- <img src="./Images/Stock1.png" width="400"/>
 
 <div id="image-table">
     <table>
@@ -8,7 +7,7 @@
         	    <img src="./Images/Me.png" width="180"/>
       	    </td>
             <td style="padding:15px">
-            	<img src="https://github.com/kaiczhang/Kai-Data-Science-Portfolio/blob/main/Images/Intro.png" width="900"/>
+            	<img src="./Images/Intro.png" width="900"/>
             </td>
         </tr>
     </table>
@@ -19,7 +18,7 @@ In this project I created building blocks of a crowdsourced recommender system. 
 
 Techniques used: Web Scrapping, Bag of Words, VADER Sentiment Analysis, SpaCy Word Embedding, Lift Association, Cosine Similarity
 
-![](https://github.com/kaiczhang/Kai-Data-Science-Portfolio/blob/main/Images/Beer1.png)
+<img src="./Beer1.png" />
 
 
 ### [2. Classification - Predictive Maintenance on Manufacturing Equipment;](https://github.com/kaiczhang/kai-data-science-portfolio/blob/main/Predictive%20Maintenance%20on%20Manufacturing%20Equipment.ipynb)
@@ -31,10 +30,10 @@ Techniques used: K-nearest Neighbour, Decision Tree, Random Forest, Logistics Re
     <table>
 	    <tr>
     	    <td style="padding:15px">
-        	    <img src="https://github.com/kaiczhang/Kai-Data-Science-Portfolio/blob/main/Images/Machine1.png" width="300"/>
+        	    <img src="./Machine1.png" width="300"/>
       	    </td>
             <td style="padding:15px">
-            	<img src="https://github.com/kaiczhang/Kai-Data-Science-Portfolio/blob/main/Images/Machine2.png" width="600"/>
+            	<img src="./Machine2.png" width="600"/>
             </td>
         </tr>
     </table>
@@ -52,10 +51,10 @@ Techniques used: Integer Programming, Linear Optimization, Gurobi
     <table>
 	    <tr>
     	    <td style="padding:15px">
-        	    <img src="https://github.com/kaiczhang/Kai-Data-Science-Portfolio/blob/main/Images/Stock1.png" width="400"/>
+        	    <img src="./Images/Stock1.png" width="400"/>
       	    </td>
             <td style="padding:15px">
-            	<img src="https://github.com/kaiczhang/Kai-Data-Science-Portfolio/blob/main/Images/Stock2.png" width="300"/>
+            	<img src="./Images/Stock2.png" width="300"/>
             </td>
         </tr>
     </table>
@@ -72,10 +71,10 @@ Techniques used: Latent Dirichlet Allocation (LDA) Topic Modeling, Tf-Idf Vector
     <table>
 	    <tr>
     	    <td style="padding:15px">
-        	    <img src="https://github.com/kaiczhang/Kai-Data-Science-Portfolio/blob/main/Images/Spam1.png" width="400"/>
+        	    <img src="./Images/Spam1.png" width="400"/>
       	    </td>
             <td style="padding:15px">
-            	<img src="https://github.com/kaiczhang/Kai-Data-Science-Portfolio/blob/main/Images/Spam2.png" width="300"/>
+            	<img src="./Images/Spam2.png" width="300"/>
             </td>
         </tr>
     </table>
@@ -94,10 +93,10 @@ Techniques used: Linear Regression, Lasso Regression, Random Forest, Gradient Bo
     <table>
 	    <tr>
     	    <td style="padding:15px">
-        	    <img src="https://github.com/kaiczhang/Kai-Data-Science-Portfolio/blob/main/Images/Outlet1.png" width="400"/>
+        	    <img src="./Images/Outlet1.png" width="400"/>
       	    </td>
             <td style="padding:15px">
-            	<img src="https://github.com/kaiczhang/Kai-Data-Science-Portfolio/blob/main/Images/Outlet2.png" width="300"/>
+            	<img src="./Images/Outlet2.png" width="300"/>
             </td>
         </tr>
     </table>
@@ -113,10 +112,10 @@ Techniques used:  Web Scrapping,Lift Chart, Multi-dimensional Scaling(MDS) Map, 
     <table>
 	    <tr>
     	    <td style="padding:15px">
-        	    <img src="https://github.com/kaiczhang/Kai-Data-Science-Portfolio/blob/main/Images/Car1.png" width="600"/>
+        	    <img src="./Images/Car1.png" width="600"/>
       	    </td>
             <td style="padding:15px">
-            	<img src="https://github.com/kaiczhang/Kai-Data-Science-Portfolio/blob/main/Images/Car2.png" width="400"/>
+            	<img src="./Images/Car2.png" width="400"/>
             </td>
         </tr>
     </table>
