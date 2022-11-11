@@ -7,6 +7,8 @@ In this project I created building blocks of a crowdsourced recommender system. 
 
 Techniques used: Bag of Words, VADER Sentiment Analysis, SpaCy Word Embedding, Lift Association, Cosine Similarity
 
+![](https://github.com/kaiczhang/Kai-Data-Science-Portfolio/blob/main/Images/Beer1.png)
+
 ### [2. Classification - Predictive Maintenance on Manufacturing Equipment;](https://github.com/kaiczhang/Data-Science-Portfolio/blob/main/Predictive%20Maintenance%20on%20Manufacturing%20Equipment.ipynb)
 In the manufactoing industry, an unexpected machine failure can be costly. Even one machine can cause the entire production line to hault. This goal of this binary classification project is to determine the condition of in-service equipment in order to estimate when maintenance should be performed.
 
