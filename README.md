@@ -1,4 +1,6 @@
 
+ <img src="https://github.com/kaiczhang/Kai-Data-Science-Portfolio/blob/main/Images/Stock1.png" width="400"/>
+
 <div id="image-table">
     <table>
 	    <tr>
@@ -39,7 +41,6 @@ Techniques used: K-nearest Neighbour, Decision Tree, Random Forest, Logistics Re
 </div>
 
 
- <img src="https://github.com/kaiczhang/Kai-Data-Science-Portfolio/blob/main/Images/Stock1.png" width="400"/>
 ### [3. Linear Optimization - Building an Index Fund to track NASDAQ-100;](https://github.com/kaiczhang/Data-Science-Portfolio/blob/main/Index%20Fund%20Selection.ipynb)
 I formulated two integer programs that picks m out of 100 stocks for a portfolio. The first program takes as input a correlation matrix of daily return of each stock. The second program decide how many of each chosen stock to buy for the portfolio.<br />
 I evaluate how well the index fund does as compared to the NASDAQ-100 index, across several values of stock number m.
