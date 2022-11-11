@@ -83,7 +83,7 @@ Techniques used: Latent Dirichlet Allocation (LDA) Topic Modeling, Tf-Idf Vector
 
 
 
-### 5. [Linear Regression/Ensemble - Outlet Sales Prediction;](https://github.com/kaiczhang/Kai-Data-Science-Portfolio/blob/main/Regression-Outlet%20Sales.ipynb)
+### [5. Linear Regression/Ensemble - Outlet Sales Prediction;](https://github.com/kaiczhang/Kai-Data-Science-Portfolio/blob/main/Regression-Outlet%20Sales.ipynb)
 In this project, I tired to understand how different product and outlet features such as shelf position, shop location play a role in increasing sales.
 I also created and evaluated different predictive models that predict aggregated annual sales of each product.
 
