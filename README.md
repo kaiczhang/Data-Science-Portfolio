@@ -3,10 +3,10 @@
     <table>
 	    <tr>
     	    <td style="padding:15px">
-        	    <img src="https://github.com/kaiczhang/Kai-Data-Science-Portfolio/blob/main/Images/Me.png" width="180"/>
+        	    <img src="https://github.com/kaiczhang/kai-data-science-portfolio/blob/main/images/me.png" width="180"/>
       	    </td>
             <td style="padding:15px">
-            	<img src="https://github.com/kaiczhang/Kai-Data-Science-Portfolio/blob/main/Images/Intro.png" width="900"/>
+            	<img src="https://github.com/kaiczhang/kai-data-science-portfolio/blob/main/images/intro.png" width="900"/>
             </td>
         </tr>
     </table>
@@ -17,10 +17,10 @@ In this project I created building blocks of a crowdsourced recommender system. 
 
 Techniques used: Web Scrapping, Bag of Words, VADER Sentiment Analysis, SpaCy Word Embedding, Lift Association, Cosine Similarity
 
-![](https://github.com/kaiczhang/Kai-Data-Science-Portfolio/blob/main/Images/Beer1.png)
+![](https://github.com/kaiczhang/kai-data-science-portfolio/blob/main/images/beer1.png)
 
 
-### [2. Classification - Predictive Maintenance on Manufacturing Equipment;](https://github.com/kaiczhang/Data-Science-Portfolio/blob/main/Predictive%20Maintenance%20on%20Manufacturing%20Equipment.ipynb)
+### [2. Classification - Predictive Maintenance on Manufacturing Equipment;](https://github.com/kaiczhang/kai-data-science-portfolio/blob/main/Predictive%20Maintenance%20on%20Manufacturing%20Equipment.ipynb)
 In the manufactoing industry, an unexpected machine failure can be costly. Even one machine can cause the entire production line to hault. The goal of this binary classification project is to determine the condition of in-service equipment in order to estimate when maintenance should be performed.
 
 Techniques used: K-nearest Neighbour, Decision Tree, Random Forest, Logistics Regression, Data Wrangling
@@ -29,10 +29,10 @@ Techniques used: K-nearest Neighbour, Decision Tree, Random Forest, Logistics Re
     <table>
 	    <tr>
     	    <td style="padding:15px">
-        	    <img src="https://github.com/kaiczhang/Kai-Data-Science-Portfolio/blob/main/Images/Machine1.png" width="300"/>
+        	    <img src="https://github.com/kaiczhang/kai-data-science-portfolio/blob/main/images/machine1.png" width="300"/>
       	    </td>
             <td style="padding:15px">
-            	<img src="https://github.com/kaiczhang/Kai-Data-Science-Portfolio/blob/main/Images/Machine2.png" width="600"/>
+            	<img src="https://github.com/kaiczhang/kai-data-science-portfolio/blob/main/images/machine2.png" width="600"/>
             </td>
         </tr>
     </table>
