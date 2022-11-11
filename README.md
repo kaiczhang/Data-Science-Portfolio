@@ -14,22 +14,38 @@ In the manufactoing industry, an unexpected machine failure can be costly. Even 
 
 Techniques used: K-nearest Neighbour, Decision Tree, Random Forest, Logistics Regression, Data Wrangling, Data Visualization
 
+![](https://github.com/kaiczhang/Kai-Data-Science-Portfolio/blob/main/Images/Machine1.png)
+![](https://github.com/kaiczhang/Kai-Data-Science-Portfolio/blob/main/Images/Machine1.png)
+
+
+
 ### [3. Linear Optimization - Building an Index Fund to track NASDAQ-100;](https://github.com/kaiczhang/Data-Science-Portfolio/blob/main/Index%20Fund%20Selection.ipynb)
 I formulated two integer programs that picks m out of 100 stocks for the portfolio. The first program takes as input a correlation matrix of daily return of each stock. The second program decide how many of each chosen stock to buy for the portfolio.<br />
 I evaluate how well the index fund does as compared to the NASDAQ-100 index, across several values of stock number m.
 
 Techniques used: Gurobi, Integer Programming, Linear Optimization
 
+![](https://github.com/kaiczhang/Kai-Data-Science-Portfolio/blob/main/Images/Stock1.png)
+![](https://github.com/kaiczhang/Kai-Data-Science-Portfolio/blob/main/Images/Stock2.png)
+
+
 ### [4. Classification/NLP - Spam Message Classification;](https://github.com/kaiczhang/Data-Science-Portfolio/blob/main/SpamProject.ipynb)
 In this project, I explore and compare different natural language processing and classification methods of detecting spam messages.
 
 Techniques used: Latent Dirichlet Allocation (LDA) Topic Modeling, Tf-Idf Vectorizing, Word Embedding, Logistics Regression, Random Forest, Cosine Similarity
+![](https://github.com/kaiczhang/Kai-Data-Science-Portfolio/blob/main/Images/Spam1.png))
+![](https://github.com/kaiczhang/Kai-Data-Science-Portfolio/blob/main/Images/Spam2.png))
+
+
 
 ### 5. [Linear Regression/Ensemble - Outlet Sales;](https://github.com/kaiczhang/Kai-Data-Science-Portfolio/blob/main/Regression-Outlet%20Sales.ipynb)
 In this project, I tired to understand how different products outlets features such as shelf position, outlet location play a role in increasing sales.
 I also created and evaluated different predictive models that predict aggregated annual sales of each product.
 
 Techniques used: Linear Regression, Lasso Regression, Random Forest, Gradient Boosting, Cross Validation
+
+![](https://github.com/kaiczhang/Kai-Data-Science-Portfolio/blob/main/Images/Outlet1.png)
+![](https://github.com/kaiczhang/Kai-Data-Science-Portfolio/blob/main/Images/Outlet2.png)
 
 ### 6. NLP - Car Models and Brands; 
 Techniques used: Beautifulsoup, Zipf's law,Lift Chart, Multi-dimensional Scaling(MDS) Map, Word Tokenization
