@@ -21,7 +21,7 @@ Techniques used: Web Scrapping, Bag of Words, VADER Sentiment Analysis, SpaCy Wo
 <img src="./Images/Beer1.png" />
 
 
-### [2. Classification - Predictive Maintenance on Manufacturing Equipment;](https://github.com/kaiczhang/kai-data-science-portfolio/blob/main/Predictive%20Maintenance%20on%20Manufacturing%20Equipment.ipynb)
+### [2. Classification - Predictive Maintenance on Manufacturing Equipment;](https://github.com/kaiczhang/Kai-Data-Science-Portfolio/blob/main/Machine%20Predictive%20Maintenance%20Classification.ipynb)
 In the manufactoing industry, an unexpected machine failure can be costly. Even one machine can cause the entire production line to hault. The goal of this binary classification project is to determine the condition of in-service equipment in order to estimate when maintenance should be performed.
 
 Techniques used: K-nearest Neighbour, Decision Tree, Random Forest, Logistics Regression, Data Wrangling
